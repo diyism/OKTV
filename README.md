@@ -4,6 +4,8 @@
 
 然后在应用里配置源: https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0707.json
 
+或者 芒果国际tv版: https://playmods.net/apps/mgtv-hunantv-official-tv-app/com.mgtv.tv.intl/download
+
 > mobile = 手機版  
 > leanback = 電視版
 
