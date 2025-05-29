@@ -1,5 +1,9 @@
 # 影視TV
 
+下载安装到android电视: https://github.com/diyism/OKTV/raw/refs/heads/okjack/apk/release/leanback-python-arm64_v8a.apk
+
+然后在应用里配置源: https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/0707.json
+
 > mobile = 手機版  
 > leanback = 電視版
 
