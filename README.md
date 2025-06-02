@@ -2,7 +2,7 @@
 
     淘宝/拼多多 买个50元左右的4k电视盒(选自由安装apk的), 界面太复杂老人眼花, 禁用默认launcher会导致 电视盒自动重置恢复, 
     倒是允许设置启动默认Launcher后再自动启动自己安装的Launcher,
-    安装 FongMi/Launcher 极简桌面, 我加了禁止后退按键的版本:
+    安装 FongMi/Launcher 极简桌面, 我加了禁止后退按键的版本(禁止Home键还没搞):
     https://github.com/diyism/TVLauncher/tree/main/Release
     
     再下载安装到android电视(50元版本是armeabi_v7a的cpu): https://github.com/diyism/OKTV/raw/refs/heads/okjack/apk/release/leanback-python-armeabi_v7a.apk
